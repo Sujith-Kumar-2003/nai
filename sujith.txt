@@ -1,0 +1,1 @@
+This is a text file created to check the creation of the git config after resetting the mac laptop.
